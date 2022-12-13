@@ -12,7 +12,7 @@ git clone https://github.com/chescoperez/ioet.git
 
 RUN
 
-python -u "./ioet/pagos.py"
+python -u "./ioet/payment.py"
 
 ## STRATEGY
 
