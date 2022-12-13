@@ -177,7 +177,7 @@ def main():
         ASTRID = "MO10:00-12:00,TH12:00-14:00,SU20:00-21:00"
         schedule = ASTRID.split(',')
     elif input1 == "3":
-        print("Enter your schedule colon separated ex. SA14:00-18:00,SU20:00-21:00n3: ")
+        print("Enter your schedule comma separated ex. SA14:00-18:00,SU20:00-21:00n3: ")
         input2 = input()
         CUSTOM = input2
         schedule = CUSTOM.split(',')
