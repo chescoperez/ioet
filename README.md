@@ -27,4 +27,10 @@ it process each day and each hourly band taking the cost of every band
 
 and sumarizing with a final variable called totalCost.
 
+Executing example 1
+
 ![alt text](https://github.com/chescoperez/ioet/blob/main/image/3.jpg?raw=true)
+
+Result
+
+![alt text](https://github.com/chescoperez/ioet/blob/main/image/4.jpg?raw=true)
